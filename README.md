@@ -14,11 +14,11 @@ To get the full information go here https://github.com/jantic/DeOldify
 
 ## Example Images
 
-![Img 1](https://res.cloudinary.com/webeys/image/upload/v1600761699/a_photo00193_f_20_xdxzrm.jpg)
+![Img 1](https://res.cloudinary.com/webeys/image/upload/w_400/v1600761699/a_photo00193_f_20_xdxzrm.jpg)
 
-![Img 2](https://res.cloudinary.com/webeys/image/upload/v1600761695/a_photo00190_f_25_bg0ckm.jpg)
+![Img 2](https://res.cloudinary.com/webeys/image/upload/w_400/v1600761695/a_photo00190_f_25_bg0ckm.jpg)
 
-![Img 3](https://res.cloudinary.com/webeys/image/upload/v1600761732/a_photo02889_f_30_i3w4iz.jpg)
+![Img 3](https://res.cloudinary.com/webeys/image/upload/w_400/v1600761732/a_photo02889_f_30_i3w4iz.jpg)
 
 ## Example Videos
 
