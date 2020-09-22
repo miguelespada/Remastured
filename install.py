@@ -19,5 +19,5 @@ else:
   warnings.filterwarnings("ignore", category=UserWarning, message=".*?Your .*? set is empty.*?")
   os.system("mkdir 'models'")
   os.system("wget https://www.dropbox.com/s/zkehq1uwahhbc2o/ColorizeArtistic_gen.pth?dl=0 -O ./models/ColorizeArtistic_gen.pth")
-  os.system("gdown --id '1NT_A5FmdUkgh--anMWkon2VRbCG-ym3z")
+  os.system("gdown --id '1NT_A5FmdUkgh--anMWkon2VRbCG-ym3z'")
   os.system("mv /content/PornModel_gen_1_0_400.pth ./models/ColorizePorn_gen.pth")
