@@ -27,5 +27,3 @@ To get the full information go here https://github.com/jantic/DeOldify
 ## License
 
 All code in this repository is under the MIT license as specified by the LICENSE file.
-
-The model weights listed in this readme under the "Pretrained Weights" section are trained by ourselves and are released under the MIT license.
