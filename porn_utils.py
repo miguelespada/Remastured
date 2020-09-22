@@ -1,5 +1,4 @@
 import fastai
-
 from deoldify.visualize import *
 
 def get_porn_image_colorizer():
