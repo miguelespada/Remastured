@@ -2,9 +2,7 @@ More information about this project: https://medium.com/p/9f2366cf5ddf
 
 ## Quick Start
 
-Colorize Porn Images (artistic) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/PornImageColorizerColab.ipynb) |
-
-Colorize Porn  Images [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/PornVideoColorizerColab.ipynb)
+Colorize Porn Images [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github.com/miguelespada/Remastured/blob/master/ImagePornColorizerColab.ipynb) |
 
 
 ## This project is a fork of DeOldify
