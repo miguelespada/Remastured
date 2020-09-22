@@ -390,6 +390,7 @@ def get_image_colorizer(
         return get_stable_image_colorizer(render_factor=render_factor)
 
 
+
 def get_stable_image_colorizer(
     root_folder: Path = Path('./'),
     weights_name: str = 'ColorizeStable_gen',
