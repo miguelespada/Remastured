@@ -22,7 +22,7 @@ To get the full information go here https://github.com/jantic/DeOldify
 
 ## Example Video
 
-[![La voyeuse 1924, remastered](https://res.cloudinary.com/webeys/image/upload/v1600764623/Screenshot_2020-09-22_at_10.50.17_uhbgnv.png)](https://vimeo.com/460476954)
+[![La voyeuse 1924, remastered](https://res.cloudinary.com/webeys/image/upload/w_400/v1600764837/Screenshot_2020-09-22_at_10.53.51_msk1e0.png)](https://vimeo.com/460476954)
 
 
 ## License
