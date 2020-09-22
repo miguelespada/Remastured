@@ -12,7 +12,7 @@ import torch
 if not torch.cuda.is_available():
   print('[ERROR] GPU not available.')
 else:
-  os.system("!pip install -r colab_requirements.txt")
+  os.system("pip install -r colab_requirements.txt")
   import fastai
   from deoldify.visualize import *
   import warnings
