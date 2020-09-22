@@ -20,7 +20,7 @@ To get the full information go here https://github.com/jantic/DeOldify
 
 ![Img 3](https://res.cloudinary.com/webeys/image/upload/w_400/v1600761732/a_photo02889_f_30_i3w4iz.jpg)
 
-## Example Video
+## Example video [NSFW]
 
 [![La voyeuse 1924, remastered](https://res.cloudinary.com/webeys/image/upload/w_400/v1600764837/Screenshot_2020-09-22_at_10.53.51_msk1e0.png)](https://vimeo.com/460476954)
 
