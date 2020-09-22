@@ -1,3 +1,6 @@
+import fastai
+
+from deoldify.visualize import *
 
 def get_porn_image_colorizer():
     artistic = get_artistic_image_colorizer(render_factor=35)
